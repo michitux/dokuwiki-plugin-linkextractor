@@ -1,0 +1,7 @@
+base   linkextractor
+author Michael Hamann
+email  michael@content-space.de
+date   2019-08-14
+name   linkextractor plugin
+desc   This plugin allows to extract all external links of the wiki using DokuWiki's parser
+url    https://www.dokuwiki.org/plugin:linkextractor
